@@ -2,7 +2,7 @@
 
 ## Description
 
-This webiste follows a codebase with accesibility standards that will optimize search engines to the site.
+This website follows a codebase with accesibility standards that will optimize search engines to the site.
 
 ## Installation
 
