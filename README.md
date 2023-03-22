@@ -1,21 +1,16 @@
-# Horiseon-Refractor
+# Horiseon-Refactor
 
 ## Description
 
-This website follows a codebase with accesibility standards that will optimize search engines to the site.
+Refactor excisiting coding in order for there to be semantic HTML elements and a cleaner CSS style. 
 
-## Installation
+# Mock-Up
 
-N/A
+![horiseon](https://user-images.githubusercontent.com/127162545/227043839-d8e98a2f-e080-4fb9-a1e1-ac6c36ebcf57.PNG)
 
-# Usage
+![horiseon 2](https://user-images.githubusercontent.com/127162545/227043825-a3f541db-17c7-4e38-998e-2bf1dcac4808.PNG)
 
-To use this website, you can read about Search Engine Optimization, Online Reputation Managament, and Social Media Marketing. There is also a side bar that explores Lead Generations, Brand Awareness, and Cost Management.
 
-## Credits
+# License
 
-N/A
-
-## License
-
-Please refer to the license in the repo.
+Refer to the license in the repository.
