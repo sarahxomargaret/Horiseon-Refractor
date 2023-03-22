@@ -12,6 +12,7 @@ Refactor excisiting coding in order for there to be semantic HTML elements and a
 
 https://github.com/sarahxomargaret/Horiseon-Refractor.git
 
+https://sarahxomargaret.github.io/Horiseon-Refractor/
 
 # License
 
